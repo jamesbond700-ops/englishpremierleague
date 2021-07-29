@@ -1,0 +1,7 @@
+git config --global user.name "jamesbond700-ops"
+git config --global user.email "nirdeshbahadurkoirala@gmail.com"
+git config --global core.editor "/usr/bin/vim"
+git config --list
+cat ~/.gitconfig
+
+to delete git rm -f filename
