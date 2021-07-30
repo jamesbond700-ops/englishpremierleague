@@ -1,0 +1,4 @@
+i am trying to learn about stash i dont know whether it will work or not ,
+i will do git stash
+then i will do git stash:wq
+ pop
