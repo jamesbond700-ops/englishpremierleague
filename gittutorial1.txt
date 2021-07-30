@@ -8,4 +8,4 @@ to delete git rm -f filename
 
 git status -s view the output in shortened format
 git status -v get more verbose output, including what was changed in a file
-git status -a-m " it will add and commit the file once it is modified
+git status -a -m " it will add and commit the file once it is modified
