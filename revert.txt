@@ -1,0 +1,5 @@
+Stash means to save or hide for later use.
+to do git stash 
+git stash -u 
+git stash pop what this will do is it brings the file again
+if you want to change then do git revert and the hashcode when you do git log 
